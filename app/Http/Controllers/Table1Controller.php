@@ -13,7 +13,7 @@ class Table1Controller extends Controller
      */
     public function index()
     {
-        return view('table-1');
+        return view('table.table-1');
     }
 
     /**
